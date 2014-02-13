@@ -39,6 +39,7 @@ public class Fenster extends JFrame {
 		this.setLocationRelativeTo(null);
 
 		initComponents();
+		createMenu();
 		initEvents();
 		this.setVisible(true);
 	}
