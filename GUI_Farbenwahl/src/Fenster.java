@@ -17,6 +17,7 @@ public class Fenster extends JFrame {
 
 	/**
 	 * 
+	 * lol
 	 */
 	private static final long serialVersionUID = 1L;
 	private Container c;
